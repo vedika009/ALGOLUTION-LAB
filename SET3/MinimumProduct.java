@@ -6,7 +6,7 @@ public class MinimumProduct {
     public static void main(String[] args) {
         int[] arr = {198,76,544,123,154,675};
         int k = 2;
-        System.out.println(minProdOptimal(arr, k);
+        System.out.println(minProdOptimal(arr, k));
     }
     static int minProductBrute(int[] arr, int k){
         long minProd = 1;
